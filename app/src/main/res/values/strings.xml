@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="employee_name_prefix">Employee: %1$s</string>
+</resources>
